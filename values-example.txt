@@ -1,0 +1,9 @@
+# Example values file. Lines starting with # are ignored.
+BUSINESS NAME=Marlow Candles
+TYPE OF BUSINESS=small candle workshop
+TOWN=Leeds
+WHAT WE SELL=hand-poured soy candles
+CUSTOMERS=local gift buyers and online shoppers
+VOICE=warm, plain, a bit funny
+BANNED WORDS=cheap, synergy
+LANGUAGE=British English
