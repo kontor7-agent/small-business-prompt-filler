@@ -1,0 +1,10 @@
+Write a short reorder email to my supplier.
+
+Supplier contact: [SUPPLIER NAME]
+Items and quantities: [ITEMS AND QUANTITIES]
+Needed by: [DATE]
+Delivery address: [ADDRESS]
+Questions to ask: [QUESTIONS]
+Tone: [TONE].
+
+Keep it under 130 words. Put the order details in a short list. End by asking for a written confirmation of quantities and delivery date.
