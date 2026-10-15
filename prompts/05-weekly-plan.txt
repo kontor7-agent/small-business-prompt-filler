@@ -1,0 +1,8 @@
+Help me plan next week for my small business.
+
+Fixed appointments: [APPOINTMENTS]
+Tasks on my list: [TASKS]
+Hours I can work per day: [HOURS]
+Deadlines: [DEADLINES]
+
+First pick the 3 tasks that matter most and say why in one line each. Then give me a day-by-day plan with no more than 4 items per day and one buffer block per day. Ask me before you assume anything I did not tell you.
