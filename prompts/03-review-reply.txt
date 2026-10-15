@@ -1,0 +1,10 @@
+Write a public reply to this customer review.
+
+Review ([STARS] stars):
+[REVIEW TEXT]
+
+What actually happened (facts only): [FACTS]
+What we will do or have done: [ACTION]
+Tone: [TONE]. Length: 50 to 80 words.
+
+Thank the person by name if given. Do not argue, do not blame, do not share private details. For a negative review, offer one clear way to continue in private: [CONTACT].
