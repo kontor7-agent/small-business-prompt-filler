@@ -1,0 +1,10 @@
+Write a reply to this customer message.
+
+Customer message:
+[CUSTOMER MESSAGE]
+
+Facts you may use (nothing else): [FACTS]
+What I want to happen next: [NEXT STEP]
+Tone: [TONE]. Length: under 120 words.
+
+Start by answering the question or acknowledging the problem. Do not promise anything that is not in the facts. If a fact is missing, write [NEED FACT: ...] instead of guessing.
